@@ -16,3 +16,4 @@ const createContactPage = () => {
     //Append everything
     content.appendChild(pageContent);
 }
+export default createContactPage;

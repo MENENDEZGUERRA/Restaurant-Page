@@ -16,3 +16,4 @@ const createMenuPage = () => {
     //Append content
     content.appendChild(pageContent);
 }
+export default createMenuPage;
